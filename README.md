@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/@xliez/antd-toy.svg?style=flat)](https://npmjs.org/package/@xliez/antd-toy)
 [![NPM downloads](http://img.shields.io/npm/dm/@xliez/antd-toy.svg?style=flat)](https://npmjs.org/package/@xliez/antd-toy)
 
-A react library developed with dumi
+Tiny tools for antd
 
 ## Usage
 
