@@ -1,11 +1,11 @@
 ---
 hero:
-  title: library
-  description: A react library developed with dumi
+  title: antd-toy
+  description: Tiny tools for antd
   actions:
-    - text: Hello
+    - text: Components
       link: /
-    - text: World
+    - text: Utils
       link: /
 features:
   - title: Hello
@@ -18,5 +18,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-@xliez/antd-toy
